@@ -18,6 +18,6 @@
 
 	<target id="haxe" tool="linker" toolid="exe" >
 		<lib name="${python_lib_folder}/_tkinter.lib" />
-		<lib name="${python_lib_folder}/python313.lib" />
+		<lib name="${python_lib_folder}/python314.lib" />
 	</target>
 </xml>
